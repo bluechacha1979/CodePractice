@@ -1,4 +1,4 @@
-class Solution {
+class stoneGame {
     public boolean stoneGame(int[] piles) {
 
         int n = piles.length;
