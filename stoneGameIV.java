@@ -1,4 +1,4 @@
-class StoneGameIV {
+class stoneGameIV {
     public boolean winnerSquareGame(int n) {
         
         boolean[] dp = new boolean[n + 1];
